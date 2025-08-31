@@ -16,5 +16,4 @@
 - Developing practice projects in Python and Flutter
 - Creating small apps as portfolio projects
 
-**Contacts:**
 **Email:** paulandreyabadroldan@gmail.com
